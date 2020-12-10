@@ -6,7 +6,10 @@ namespace AndersenTraineeTasksOnDotNet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Cycles cycles = new Cycles();
+            cycles.UseForCycle();
+            cycles.UseForeachCecle();
+            cycles.UseDoWhileCycle();
         }
     }
 }
