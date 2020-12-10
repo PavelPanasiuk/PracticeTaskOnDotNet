@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\AndersenTraineeTasksOnDotNet\\CycleTask.csproj",
-      "projectName": "CycleTask",
-      "projectPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\AndersenTraineeTasksOnDotNet\\CycleTask.csproj",
+      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\WriteHelloWorld\\WriteHelloWorld.csproj",
+      "projectName": "WriteHelloWorld",
+      "projectPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\WriteHelloWorld\\WriteHelloWorld.csproj",
       "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\AndersenTraineeTasksOnDotNet\\obj\\",
+      "outputPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\WriteHelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",

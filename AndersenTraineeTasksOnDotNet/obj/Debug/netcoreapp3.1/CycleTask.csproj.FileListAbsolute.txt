@@ -1,0 +1,12 @@
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\bin\Debug\netcoreapp3.1\CycleTask.exe
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\bin\Debug\netcoreapp3.1\CycleTask.deps.json
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\bin\Debug\netcoreapp3.1\CycleTask.runtimeconfig.json
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\bin\Debug\netcoreapp3.1\CycleTask.runtimeconfig.dev.json
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\bin\Debug\netcoreapp3.1\CycleTask.dll
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\bin\Debug\netcoreapp3.1\CycleTask.pdb
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\obj\Debug\netcoreapp3.1\CycleTask.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\obj\Debug\netcoreapp3.1\CycleTask.AssemblyInfo.cs
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\obj\Debug\netcoreapp3.1\CycleTask.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\obj\Debug\netcoreapp3.1\CycleTask.dll
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\obj\Debug\netcoreapp3.1\CycleTask.pdb
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\AndersenTraineeTasksOnDotNet\obj\Debug\netcoreapp3.1\CycleTask.genruntimeconfig.cache
