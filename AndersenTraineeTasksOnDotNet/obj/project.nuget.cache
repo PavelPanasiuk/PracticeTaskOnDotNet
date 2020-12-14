@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "fCfCaQMFvwpD2ykxhLG9omU0jnf5OVuBnWVLg4t39E+lwcwFNU9p4jt3vwJUJS+BbUA1FRRxMw8ThW+UKsWwJw==",
+  "dgSpecHash": "RqkilV0yZft+choAdErZRVrzliVjJp9wrW7bD9JmS6vYM+hWRaBOtjlmRRDKr8d4jFxJ3yjE3yKO1CXAjpy/oA==",
   "success": true,
   "projectFilePath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\AndersenTraineeTasksOnDotNet\\HelloWorldAndCycleTask.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pavel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\pavel\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
-    "C:\\Users\\pavel\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
-    "C:\\Users\\pavel\\.nuget\\packages\\nunit.consolerunner\\3.11.1\\nunit.consolerunner.3.11.1.nupkg.sha512"
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\nunit.consolerunner\\3.11.1\\nunit.consolerunner.3.11.1.nupkg.sha512"
   ],
   "logs": []
 }

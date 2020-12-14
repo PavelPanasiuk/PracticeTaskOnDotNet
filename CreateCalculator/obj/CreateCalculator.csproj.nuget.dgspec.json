@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\CreateCalculator\\CreateCalculator.csproj",
         "projectName": "CreateCalculator",
         "projectPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\CreateCalculator\\CreateCalculator.csproj",
-        "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+        "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\CreateCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
