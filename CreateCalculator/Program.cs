@@ -21,13 +21,13 @@ namespace CreateCalculator
             stringLingvo.GetSumNumbersInString("*0*1*2");
             Console.WriteLine(stringLingvo.GetRezult);
 
-            //Calculator calculator = new Calculator();
-            //calculator.GetQuotient(4, 1);
-            //Console.WriteLine(calculator.GetRezult);
+            Calculator calculator = new Calculator();
+            calculator.GetQuotient(4, 1);
+            Console.WriteLine(calculator.GetRezult);
 
-            //StringMathCalculator stringMath = new StringMathCalculator();
-            //stringMath.GetSumNumbersInString("8+4");
-            //Console.WriteLine(stringMath.GetRezult);
+            StringMathCalculator stringMath = new StringMathCalculator();
+            stringMath.GetSumNumbersInString("8+4");
+            Console.WriteLine(stringMath.GetRezult);
 
         }
     }
