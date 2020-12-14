@@ -5,7 +5,11 @@ namespace NUnitTestProject
 {
     public class Tests
     {
+        //1)Установить NUnit
+        //2)Написать Hello world используя NUnit test вместо main методаю.
         //3)Написать unit тесты для классов Calculator, StringMathCalculator, StringLingvoCalculator 
+        //4)Отключить один из юнит тестов
+
         private string _someText = "Hello world";
         private int _actualSum;
         private int _actualDifference;
@@ -62,7 +66,7 @@ namespace NUnitTestProject
         [Test]
         public void CheckMathRezultFromString()
         {
-            Assert.AreEqual(21, _actualRezultFromString);
+            Assert.AreEqual(25, _actualRezultFromString);
         }
 
         [Test]
