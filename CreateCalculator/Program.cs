@@ -14,14 +14,21 @@ namespace CreateCalculator
             //3)Написать класс StringLingvoCalculator меняющий функциональность класса StringMathCalculator, 
             //  и предоставляющий функцию которая может обрабатывать строку вида
             //  "2+2" и выдавать решение как обьединение строк. ("2+2"-> "22")
-            StringLingvoCalculator stringLingvoCalculator = new StringLingvoCalculator();
-            StringMathCalculator stringMathCalculator = new StringMathCalculator();
-            stringMathCalculator.GetSum(2, 10);
-            Console.WriteLine(stringMathCalculator.GetRezult);
-            stringMathCalculator.GetSumNumbersInString("8*4");
-            stringLingvoCalculator.GetSumNumbersInString("1f22bjhbjhv876kjhkjhk2222r3");
+            //1)Улучшить класс Calculator перехватывая деление на ноль, и вместо exception выдавая 
+            //сообщение об ошибке в консоль
 
-            Console.WriteLine(stringLingvoCalculator.GetRezult);
+            StringLingvoCalculator stringLingvo = new StringLingvoCalculator();
+            stringLingvo.GetSumNumbersInString("*0*1*2");
+            Console.WriteLine(stringLingvo.GetRezult);
+
+            //Calculator calculator = new Calculator();
+            //calculator.GetQuotient(4, 1);
+            //Console.WriteLine(calculator.GetRezult);
+
+            //StringMathCalculator stringMath = new StringMathCalculator();
+            //stringMath.GetSumNumbersInString("8+4");
+            //Console.WriteLine(stringMath.GetRezult);
+
         }
     }
 }

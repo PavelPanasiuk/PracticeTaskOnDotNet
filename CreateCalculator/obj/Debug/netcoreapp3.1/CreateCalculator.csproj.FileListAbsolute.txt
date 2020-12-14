@@ -7,7 +7,9 @@ C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\bin\De
 C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.csprojAssemblyReference.cache
 C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.AssemblyInfoInputs.cache
 C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.AssemblyInfo.cs
-C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.csproj.CoreCompileInputs.cache
 C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.dll
 C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.pdb
 C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.genruntimeconfig.cache
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.csproj.CopyComplete
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\CreateCalculator\obj\Debug\netcoreapp3.1\CreateCalculator.csproj.CoreCompileInputs.cache

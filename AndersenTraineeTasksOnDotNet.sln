@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorldAndCycleTask", "A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GetBrowserEnum", "GetBrowserEnum\GetBrowserEnum.csproj", "{B538EE7B-CA9E-47FA-805F-4151C892D187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateCalculator", "CreateCalculator\CreateCalculator.csproj", "{CCB63280-A658-49FE-BA6F-1FF8083BBE8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateCalculator", "CreateCalculator\CreateCalculator.csproj", "{CCB63280-A658-49FE-BA6F-1FF8083BBE8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject", "NUnitTestProject\NUnitTestProject.csproj", "{06C60231-869A-4A66-BA78-F3F71DF6CE17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CCB63280-A658-49FE-BA6F-1FF8083BBE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCB63280-A658-49FE-BA6F-1FF8083BBE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCB63280-A658-49FE-BA6F-1FF8083BBE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C60231-869A-4A66-BA78-F3F71DF6CE17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C60231-869A-4A66-BA78-F3F71DF6CE17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C60231-869A-4A66-BA78-F3F71DF6CE17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C60231-869A-4A66-BA78-F3F71DF6CE17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GetBrowserEnum
 {
-    enum BrowserType
+    public enum BrowserType
     {
         InternetExplorer,
         Chrome,

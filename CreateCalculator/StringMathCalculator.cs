@@ -4,23 +4,25 @@ using System.Text;
 
 namespace CreateCalculator
 {
-    class StringMathCalculator : Calculator
+    public class StringMathCalculator : Calculator
     {
         //2)Написать класс StringMathCalculator расширяющий функциональность класса Calculator, 
         //  и предоставляющий функцию которая может обрабатывать строку вида
         //  "2+2" и выдавать решение такой простейшей арифметической операции("2+2"-> "4")
-        private int _rezult;       
+        private int _rezult;
 
-        public virtual void GetSumNumbersInString(string someNumbers)
+        public int GetRezult => _rezult;
+
+        public virtual int GetSumNumbersInString(string someNumbers)
         {
-            int firstNumber = int.Parse(Convert.ToString(someNumbers[0]));
+            int firstNumber = int.Parse(someNumbers[0].ToString());
             char mathematicalSign = someNumbers[1];
-            int secondNumber =int.Parse(someNumbers[2].ToString());
+            int secondNumber =int.Parse(someNumbers[2].ToString());           
             
             switch (mathematicalSign)
             {
                 case '+':
-                    _rezult = firstNumber + secondNumber;
+                   _rezult = firstNumber + secondNumber;
                     break;
                 case '-':
                     _rezult = firstNumber - secondNumber;
@@ -32,6 +34,7 @@ namespace CreateCalculator
                     _rezult = firstNumber / secondNumber;
                     break;
             }
+            return _rezult ;
         }
     }
 }

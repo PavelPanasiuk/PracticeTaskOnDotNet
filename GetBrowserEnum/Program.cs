@@ -12,20 +12,17 @@ namespace GetBrowserEnum
             //3)Написать Интерфейс с функцией CheckBrowser принимающую на вход параметр типа BrowserType и 
             //возвращающей true или false И второй функцией возвращающей BrowserType GetBrowser. Написать три класса, 
             //каждый из которых возвращает true только если в фунцию CheckBrowser передано значение равное значению GetBrowser.
-            //4)Вместо интерфейса для задачи 3 использовать абстрактный класс.   
+            //4)Вместо интерфейса для задачи 3 использовать абстрактный класс.  
 
-
-            Console.WriteLine();
-
+            ICheck chrome = new Chrome();
+            ICheck fireFox = new FireFox();
+            ICheck internetExplorer = new InternetExplorer();            
+            Console.WriteLine(fireFox.CheckBrowser(BrowserType.Chrome));
         }
 
         public static void PrintBrowser(BrowserType browserEnum)
         {
             Console.WriteLine(browserEnum);
         }
-
-
-
-
     }
 }
