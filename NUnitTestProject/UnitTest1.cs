@@ -21,6 +21,7 @@ namespace NUnitTestProject
         [Test]
         public void Test1()
         {
+            Assert.Ignore();
             Assert.IsTrue(_someText == "Hello world");
         }
 
