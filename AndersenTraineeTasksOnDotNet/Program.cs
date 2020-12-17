@@ -6,7 +6,6 @@ namespace CycleTask
     {
         public static void Main(string[] args)
         {
-
             //1)Написать HelloWorld согласно
             //  https://docs.microsoft.com/ru-ru/dotnet/csharp/programming-guide/inside-a-program/hello-world-your-first-program
             //  -Обратить внимание на использование namespace в программе
@@ -22,38 +21,38 @@ namespace CycleTask
 
         public static void GetHelloWorldToConsole()
         {
-            int _numberOfCalls = 0;
-            string[] _arrayString = new string[333 / 4];
+            int allCountOfCallsByCycles = 0;
+            int countOfCalls = 333 / 4;
+            string[] _arrayString = new string[countOfCalls];
 
             Console.WriteLine("\nUse \"For Cycle\":\n");
-            for (int i = 0; i < 333 / 4; i++)
+            for (int i = 0; i < countOfCalls; i++)
             {
                 _arrayString[i] = "Hello world";
-                Console.WriteLine($"{++_numberOfCalls} {_arrayString[i]}");
+                Console.WriteLine($"{++allCountOfCallsByCycles} {_arrayString[i]}");
             }
 
             Console.WriteLine("\nUse \"Foreach Cycle\":\n");
             foreach (var stringFromArray in _arrayString)
             {
-                Console.WriteLine($"{++_numberOfCalls} {stringFromArray}");
+                Console.WriteLine($"{++allCountOfCallsByCycles} {stringFromArray}");
             }
 
             Console.WriteLine("\nUse \"Do Cycle\":\n");
-            int numberOfCalls = 333 / 4;
+            int countOfCallsDoCycle = countOfCalls;
             do
             {
-                Console.WriteLine($"{++_numberOfCalls} Hello world");
-                numberOfCalls--;
+                Console.WriteLine($"{++allCountOfCallsByCycles} Hello world");
+                countOfCallsDoCycle--;
             }
-            while (numberOfCalls != 0);
+            while (countOfCallsDoCycle != 0);
 
-
-            Console.WriteLine("\nUse \"Foreach Cycle\":\n");
-            numberOfCalls = 333 / 4;
-            while (numberOfCalls != 0)
+            Console.WriteLine("\nUse \"While Cycle\":\n");
+            int countOfCallsWhileCycle = countOfCalls;
+            while (countOfCallsWhileCycle != 0)
             {
-                Console.WriteLine($"{++_numberOfCalls} Hello world");
-                numberOfCalls--;
+                Console.WriteLine($"{++allCountOfCallsByCycles} Hello world");
+                countOfCallsWhileCycle--;
             }
         }
     }

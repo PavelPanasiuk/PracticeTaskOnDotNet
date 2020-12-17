@@ -8,17 +8,16 @@ namespace GetBrowserEnum
     {
         //3)Написать Интерфейс с функцией CheckBrowser принимающую на вход параметр типа BrowserType и
         //возвращающей true или false И второй функцией возвращающей BrowserType GetBrowser. Написать три класса, 
-        //каждый из которых возвращает true только если в фунцию CheckBrowser передано значение равное значению GetBrowser.
-        private BrowserType _browserType = BrowserType.Chrome;
+        //каждый из которых возвращает true только если в фунцию CheckBrowser передано значение равное значению GetBrowser.        
 
-        BrowserType ICheck.GetBrowser()
+        public BrowserType GetBrowser()
         {
-            return _browserType;
+            return BrowserType.Chrome;
         }
 
-        bool ICheck.CheckBrowser(BrowserType browserType)
+        public bool CheckBrowser(BrowserType browserType)
         {
-            return _browserType == browserType;
+            return GetBrowser() == browserType;
         }
     }
 }

@@ -10,7 +10,6 @@ namespace CreateCalculator
         //  умножить два числа и имеет функцию сохранения текущего результата.
 
         private int _rezult;
-
         public int GetRezult => _rezult;
 
         public int GetSum(int x, int y)

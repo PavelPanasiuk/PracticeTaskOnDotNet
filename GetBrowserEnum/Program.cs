@@ -18,6 +18,7 @@ namespace GetBrowserEnum
             ICheck fireFox = new FireFox();
             ICheck internetExplorer = new InternetExplorer();            
             Console.WriteLine(fireFox.CheckBrowser(BrowserType.Chrome));
+            PrintBrowser(BrowserType.InternetExplorer);
         }
 
         public static void PrintBrowser(BrowserType browserEnum)
