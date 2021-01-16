@@ -1,13 +1,10 @@
 using NUnit.Framework;
 using System;
 using CreateCalculator;
-using NUnit.Allure.Core;
 
 namespace NUnitTestProject
 {
-
     [TestFixture]
-    [AllureNUnit]
     public class Tests
     {
         //1)Установить NUnit
@@ -29,8 +26,8 @@ namespace NUnitTestProject
         [Test]
         public void Write_HelloWorld_ToConsole()
         {
-            Console.WriteLine("Hello world");            
-        }        
+            Console.WriteLine("Hello world");
+        }
 
         [Test]
         public void Add_TwoNumbers_ReturnSumOfNumbers()
