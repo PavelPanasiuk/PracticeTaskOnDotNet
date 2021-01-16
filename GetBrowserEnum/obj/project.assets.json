@@ -262,11 +262,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\AndersenTraineeTasksOnDotNet\\HelloWorldAndCycleTask.csproj",
-      "projectName": "HelloWorldAndCycleTask",
-      "projectPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\AndersenTraineeTasksOnDotNet\\HelloWorldAndCycleTask.csproj",
+      "projectUniqueName": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\GetBrowserEnum\\GetBrowserEnum.csproj",
+      "projectName": "GetBrowserEnum",
+      "projectPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\GetBrowserEnum\\GetBrowserEnum.csproj",
       "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\AndersenTraineeTasksOnDotNet\\obj\\",
+      "outputPath": "C:\\Users\\pavel\\source\\repos\\AndersenTraineeTasksOnDotNet\\GetBrowserEnum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",

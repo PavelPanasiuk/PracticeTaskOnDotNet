@@ -1,0 +1,13 @@
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\bin\Debug\netcoreapp3.1\WriteHelloWorld.exe
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\bin\Debug\netcoreapp3.1\WriteHelloWorld.deps.json
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\bin\Debug\netcoreapp3.1\WriteHelloWorld.runtimeconfig.json
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\bin\Debug\netcoreapp3.1\WriteHelloWorld.runtimeconfig.dev.json
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\bin\Debug\netcoreapp3.1\WriteHelloWorld.dll
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\bin\Debug\netcoreapp3.1\WriteHelloWorld.pdb
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\obj\Debug\netcoreapp3.1\WriteHelloWorld.csprojAssemblyReference.cache
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\obj\Debug\netcoreapp3.1\WriteHelloWorld.AssemblyInfoInputs.cache
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\obj\Debug\netcoreapp3.1\WriteHelloWorld.AssemblyInfo.cs
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\obj\Debug\netcoreapp3.1\WriteHelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\obj\Debug\netcoreapp3.1\WriteHelloWorld.dll
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\obj\Debug\netcoreapp3.1\WriteHelloWorld.pdb
+C:\Users\pavel\source\repos\AndersenTraineeTasksOnDotNet\WriteHelloWorld\obj\Debug\netcoreapp3.1\WriteHelloWorld.genruntimeconfig.cache
